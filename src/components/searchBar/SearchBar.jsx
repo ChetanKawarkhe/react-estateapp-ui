@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './searchBar.scss';
+import Slider from '../slider/Slider';
 
 const type = ['buy','rent']
 function SearchBar(){
